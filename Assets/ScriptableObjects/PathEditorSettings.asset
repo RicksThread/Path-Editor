@@ -12,12 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b77e6ee876a6374fb0ba75b9de43772, type: 3}
   m_Name: PathEditorSettings
   m_EditorClassIdentifier: 
-  sampleDistance: 0
-  resolution: 0
-  anchorPointColor: {r: 0, g: 0, b: 0, a: 0}
-  radiusAnchorPoint: 0
-  handlePointColor: {r: 0, g: 0, b: 0, a: 0}
-  radiusHandlesPoint: 0
-  lineEditorColor: {r: 0, g: 0, b: 0, a: 0}
-  widthLineEditor: 0
-  scaleRotHandles: 0
+  sampleDistance: 0.1
+  resolution: 4
+  anchorPointColor: {r: 1, g: 0, b: 0.010321617, a: 1}
+  radiusAnchorPoint: 0.4
+  handlePointColor: {r: 0.46328756, g: 1, b: 0.09019607, a: 1}
+  radiusHandlesPoint: 0.1
+  lineEditorColor: {r: 1, g: 0.91057944, b: 0.25943398, a: 1}
+  widthLineEditor: 1
+  scaleRotHandles: 0.5
