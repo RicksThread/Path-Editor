@@ -1,2 +1,2 @@
 # Path-Editor
-General use path editor, created for fixed paths to be crossed. Inspired from the work of Sebastian Lague
+General use path editor, created for fixed paths to be followed. Inspired from the work of Sebastian Lague
